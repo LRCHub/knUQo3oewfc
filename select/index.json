@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "夢花火",
+  "base_artist": "百鬼あやめ",
+  "createdAt": "2025-12-29T05:38:15.737896Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢花火",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/01_夢花火_Novelbright.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢花火",
+      "artist": "百鬼あやめ",
+      "has_synced": true,
+      "path": "select/02_夢花火_百鬼あやめ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢花火",
+      "artist": "TSUBOMI",
+      "has_synced": true,
+      "path": "select/03_夢花火_TSUBOMI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夢花火",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/04_夢花火_Novelbright.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢花火",
+      "artist": "百鬼あやめ",
+      "has_synced": false,
+      "path": "select/pl_01_夢花火_百鬼あやめ.txt"
+    }
+  ]
+}
